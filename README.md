@@ -1,5 +1,5 @@
 # cigCharts 
-Cigcharts is a simple judgment-free way to track smoking habits. I like many people my age smoke "socially" but when I try and estimate what "social" looks like I come up
+Cigcharts is a simple judgment-free way to track smoking habits. I, like many people my age, smoke "socially" but when I try and estimate what "social" looks like I come up
 blank. This is a simple self-hostable webpage that tracks your habits with a single button and gives you a GitHub style heatmap along with a csv of the data. 
 <br>
 <br>
