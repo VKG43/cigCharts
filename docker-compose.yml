@@ -1,0 +1,9 @@
+version: "2.4"   # i dont really think this is needed
+services:
+  smoking:
+    build: .
+    ports:
+      - "5023:8080"
+    volumes:
+      - ./data:/data
+    restart: unless-stopped
