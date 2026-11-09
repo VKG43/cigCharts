@@ -11,8 +11,8 @@ If you are the kind of person who kind of smokes, this is kind of for you.
 
 ## Setup Guide
 
-    docker build -t smoking .
-    docker run -d --name smoking --restart unless-stopped -p 5023:8080 -v $PWD/data:/data smoking
+    docker build -t cigCharts .
+    docker run -d --name cigCharts --restart unless-stopped -p 5023:8080 -v $PWD/data:/data cigCharts
 
 Open http://localhost:5023
 
